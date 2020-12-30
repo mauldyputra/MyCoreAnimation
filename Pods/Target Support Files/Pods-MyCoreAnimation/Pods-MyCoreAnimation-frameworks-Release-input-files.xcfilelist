@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-MyCoreAnimation/Pods-MyCoreAnimation-frameworks.sh
+${BUILT_PRODUCTS_DIR}/TheAnimation/TheAnimation.framework
+${BUILT_PRODUCTS_DIR}/ViewAnimator/ViewAnimator.framework
